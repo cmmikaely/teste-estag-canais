@@ -1,3 +1,12 @@
+
+Este projeto visa resolver o desafio proposto pelo programa de estágio do ITAÚ.
+
+Foi desenvolvido utilizando python 3.10.
+
+Para executar: 
+           
+    python main.py 
+  
 # teste-estag-canais
 
 ![alt text](https://static.vecteezy.com/system/resources/previews/003/326/613/non_2x/software-engineering-concept-for-website-and-mobile-site-vector.jpg)
