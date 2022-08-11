@@ -1,7 +1,5 @@
 
-Este projeto visa resolver o desafio proposto pelo programa de estágio do ITAÚ.
-
-Foi desenvolvido utilizando python 3.10.
+Este projeto foi desenvolvido utilizando python 3.10.
 
 Para executar: 
            
